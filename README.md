@@ -1,31 +1,289 @@
-<h1 align="center">Hi 👋, I'm Maharab Hossain Opi</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maharab24&label=Profile%20views&color=0e75b6&style=flat" alt="maharab24" /> </p>
+# 👋 Hey, I'm **Maharab Hossain Opi**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maharab24" alt="maharab24" /></a> </p>
+### `Software Engineer` · `Full-Stack Developer` · `Problem Solver`
 
-- 👨‍💻 All of my projects are available at [https://maharabhossainopi.netlify.app/](https://maharabhossainopi.netlify.app/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;MERN+Stack+Developer;AI+%26+Automation+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 
-- 📫 How to reach me **maharabhossainopi24@gmail.com**
+<br>
 
-- 📄 Know about my experiences [https://maharabhossainopi.netlify.app/](https://maharabhossainopi.netlify.app/)
+<a href="https://maharabhossainopi.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
+</a>
+<a href="mailto:maharabhossainopi24@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/maharab-hossain-opi-548294228/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/maharab24">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/maharab-hossain-opi-548294228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maharab-hossain-opi-548294228/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/maharabhossainopi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/maharabhossainopi" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/maharab.hossain.opi.2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/maharab.hossain.opi.2024" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/maharab_hossain_opi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="maharab_hossain_opi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/maharabhossainopi24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maharabhossainopi24" height="30" width="40" /></a>
-<a href="https://discord.gg/opi6507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="opi6507" height="30" width="40" /></a>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=maharab24&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```javascript
+const maharab = {
+    name: "Maharab Hossain Opi",
+    location: "Bangladesh 🇧🇩",
+    role: "Software Engineer",
+
+    interests: [
+        "Full-Stack Development",
+        "Backend Engineering",
+        "AI & Automation",
+        "System Design",
+        "Problem Solving"
+    ],
+
+    currentlyLearning: [
+        "Advanced Spring Boot",
+        "System Design",
+        "Cloud & DevOps",
+        "AI Engineering"
+    ],
+
+    philosophy:
+        "Build. Break. Learn. Improve. Repeat."
+};
+```
+
+I enjoy turning ideas into **real-world software products**.
+
+My focus is on building applications that are not only functional, but also **scalable, maintainable, secure, and user-friendly**.
+
+---
+
+## ⚡ What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Full-Stack Development
+
+Building modern web applications with:
+
+* React
+* Node.js
+* Express.js
+* Spring Boot
+* MongoDB
+* MySQL
+* REST APIs
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Backend Engineering
+
+Interested in:
+
+* API Architecture
+* Authentication & Authorization
+* Database Design
+* WebSockets
+* Multithreading
+* Socket Programming
+* System Architecture
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 AI & Automation
+
+Exploring:
+
+* AI-powered applications
+* Generative AI
+* Workflow automation
+* Data processing
+* Machine Learning
+* AI-assisted business solutions
+
+</td>
+
+<td width="50%">
+
+### ☁️ DevOps & Cloud
+
+Working with:
+
+* Git & GitHub
+* Docker
+* AWS
+* Google Cloud
+* Linux
+* Firebase
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,javascript,python,c,cpp,html,css" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### Frontend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maharab24&show_icons=true&locale=en&layout=compact" alt="maharab24" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=react,vue,tailwind" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maharab24&show_icons=true&locale=en" alt="maharab24" /></p>
+### Backend
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maharab24&" alt="maharab24" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,figma" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+### 📦 InventoryOS
+
+Enterprise-focused inventory management platform designed to simplify:
+
+`Inventory` · `Warehouses` · `Purchase Orders` · `Reports` · `Stock Tracking`
+
+---
+
+### 📝 MESON Exam Platform
+
+A complete online MCQ examination platform featuring:
+
+`Online Exams` · `Timer` · `Automatic Evaluation` · `Solutions` · `Admin Panel`
+
+---
+
+### 🤖 AI & Automation Projects
+
+Building automation systems that connect:
+
+`AI` → `Business Processes` → `Automation` → `Real-World Results`
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=maharab24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maharab24&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=maharab24&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=maharab24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/maharab24/maharab24/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/maharab-hossain-opi-548294228/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.kaggle.com/maharabhossainopi">
+<img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="45"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/maharab.hossain.opi.2024">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" width="45"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://leetcode.com/maharabhossainopi24/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://codeforces.com/profile/maharab_hossain_opi">
+<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="45"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://discord.gg/opi6507">
+<img src="https://cdn.simpleicons.org/discord/5865F2" width="45"/>
+</a>
+
+<br><br>
+
+<a href="https://maharabhossainopi.netlify.app/">
+<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00F7FF?style=for-the-badge&logo=firefox&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Great software is built one problem at a time."
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FFF&height=120&section=footer"/>
+
+</div>
